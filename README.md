@@ -17,3 +17,7 @@ HWND hwnd = FindWindow(NULL, L"UnrealTournament "); //<-- game window example
 HMODULE dll = LoadLibraryEx(L"test.dll", NULL, DONT_RESOLVE_DLL_REFERENCES); //<-- DLL name
 
 4. Compile & done
+
+5. (Linked the video on how to certificate your dll)
+
+https://streamable.com/acd6zd
