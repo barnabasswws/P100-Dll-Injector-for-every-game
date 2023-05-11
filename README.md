@@ -18,6 +18,8 @@ HMODULE dll = LoadLibraryEx(L"test.dll", NULL, DONT_RESOLVE_DLL_REFERENCES); //<
 
 4. Compile & done
 
-5. (Linked the video on how to certificate your dll, the certificator is in the ZIP file(
+5. (Linked the video on how to certificate your dll, the certificator is in the ZIP file)
+
+- If u need any help hmu on discord: barnabas#1778
 
 https://streamable.com/acd6zd
