@@ -18,6 +18,6 @@ HMODULE dll = LoadLibraryEx(L"test.dll", NULL, DONT_RESOLVE_DLL_REFERENCES); //<
 
 4. Compile & done
 
-5. (Linked the video on how to certificate your dll)
+5. (Linked the video on how to certificate your dll, the certificator is in the ZIP file(
 
 https://streamable.com/acd6zd
